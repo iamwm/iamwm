@@ -1,4 +1,18 @@
-    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span>
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<style>
+
+body {
+    color: #000000;
+    background-color: #ffffff;
+}
+</style>
+</head>
+<html>
+<body>
+    <code>
+        <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace"><span style="color: #000080; text-decoration-color: #000080">╔════════════════════════ </span><span style="color: #000080; text-decoration-color: #000080; font-weight: bold">Hi there</span><span style="color: #000080; text-decoration-color: #000080"> ════════════════════════╗</span>
 <span style="color: #000080; text-decoration-color: #000080">║</span> I&#x27;m a software developer, living in <a href="https://ditu.amap.com/search?query=%E6%AD%A6%E6%B1%89&city=420000&geoobj=113.248277%7C30.047641%7C115.949036%7C31.166271&zoom=9.55">Wuhan</a>, China. I&#x27;m    <span style="color: #000080; text-decoration-color: #000080">║</span>
 <span style="color: #000080; text-decoration-color: #000080">║</span> now working for an industrial IoT company. I&#x27;m interest  <span style="color: #000080; text-decoration-color: #000080">║</span>
 <span style="color: #000080; text-decoration-color: #000080">║</span> in distributed systems.Other than software development,  <span style="color: #000080; text-decoration-color: #000080">║</span>
@@ -20,4 +34,6 @@
 <span style="color: #008080; text-decoration-color: #008080">    ┣━━ </span>competent in <a href="https://redis.io//">redis</a>                                  
 <span style="color: #008080; text-decoration-color: #008080">    ┗━━ </span>competent in <a href="https://www.rabbitmq.com/">rabbitmq</a>                               
 </pre>
-    
+    </code>
+</body>
+</html>

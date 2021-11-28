@@ -36,8 +36,8 @@ panel = Panel.fit(
 if __name__ == '__main__':
     console.print(Columns([panel, tree]))
 
-    CONSOLE_HTML_FORMAT = """\
-    <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
-    """
+    # CONSOLE_HTML_FORMAT = """\
+    # <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">{code}</pre>
+    # """
 
-    console.save_html("README.md", inline_styles=True, code_format=CONSOLE_HTML_FORMAT)
+    console.save_html("README.md", inline_styles=True)
