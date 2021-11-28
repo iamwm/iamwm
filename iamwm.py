@@ -26,11 +26,7 @@ database_tree.add("competent in [link=https://redis.io//]redis")
 database_tree.add("competent in [link=https://www.rabbitmq.com/]rabbitmq")
 
 about = """\
-I'm a software developer, living in [link=https://ditu.amap.com/search?query=%E6%AD%A6%E6%B1%89&city=420000&geoobj=113.248277%7C30.047641%7C115.949036%7C31.166271&zoom=9.55]Wuhan[/], China. 
-I'm now working for an industrial IoT company. 
-I'm interest in distributed systems.
-Other than software development, my passion would be [link=https://500px.com/p/vcg-wangmengcn?view=photos/]landscape photography[/].
-"""
+I'm a software developer, living in [link=https://ditu.amap.com/search?query=%E6%AD%A6%E6%B1%89&city=420000&geoobj=113.248277%7C30.047641%7C115.949036%7C31.166271&zoom=9.55]Wuhan[/], China. I'm now working for an industrial IoT company. I'm interest in distributed systems.Other than software development, my passion would be [link=https://500px.com/p/vcg-wangmengcn?view=photos/]landscape photography[/]."""
 
 panel = Panel.fit(
     about, box=box.DOUBLE, border_style="blue", title="[b]Hi there", width=60
